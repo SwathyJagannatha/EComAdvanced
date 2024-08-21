@@ -102,10 +102,10 @@ The API can be tested using tools like [Postman](https://www.postman.com/) or [c
 
 ### Customer Account Endpoints
 
-- **POST /customer-accounts**: Create a new customer account.
-- **GET /customer-accounts**: Retrieve all customer accounts.
-- **PUT /customer-accounts/:id**: Update a customer account by ID.
-- **DELETE /customer-accounts/:id**: Delete a customer account by ID.
+- **POST /customeraccnt**: Create a new customer account.
+- **GET /customeraccnt**: Retrieve all customer accounts.
+- **PUT /customeraccnt/:id**: Update a customer account by ID.
+- **DELETE /customeraccnt/:id**: Delete a customer account by ID.
 
 ## Testing
 
